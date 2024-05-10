@@ -7,7 +7,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <main className="bg-slate-800 grid-layout box-border">
+      <main className=" grid-layout box-border">
         <MainSidebar />
         <div className="w-full p-5">
           <Header />
